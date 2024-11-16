@@ -1,0 +1,2 @@
+# swingtrade
+Cotação Swing Trade 
